@@ -3,7 +3,7 @@
 // Полную документацию см. на hub.oscript.io/packaging
 //
 
-Описание.Имя("my-lib")
+Описание.Имя("package-name")
         .Версия("0.x.0")
         .Автор("Khorev Aleksey")
         .АдресАвтора("Khorevaa@gmail.com")
